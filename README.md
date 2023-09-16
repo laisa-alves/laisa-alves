@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou a Laísa</h1>
+<h1 align="center">Olá, eu sou a Laísa</h1>
 
 ### Desenvolvedora Frontend em Formação
 Atualmente estou desenvolvendo o app [DaniTech](https://github.com/laisa-alves/ecommerce-app)
