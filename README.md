@@ -36,6 +36,6 @@ I'm studying Analysis and Systems Development and have experience with HTML, CSS
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
     
-  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="30" height="30"/> </a> 
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="30" height="30"/> </a> 
 </p>
