@@ -9,14 +9,6 @@ I'm a curious person, passionate about problem-solving. This passion led me to l
 
 I'm studying Analysis and Systems Development and have experience with HTML, CSS, JS and React. Additionally, I have been venturing into mobile development using Flutter and Dart, focusing on providing exceptional experiences for mobile applications.
 
-### Projects
-
-I'm currently working on the [DaniTech](https://github.com/laisa-alves/ecommerce-app) app.
-
-I'm learning Flutter, Dart, APIs, HTML, CSS, JS and React.
-
-I also contribute to the [LadiesCode](https://github.com/ladiesCodeTech) app.
-
 
 ### Curiosities and hobbies
 
